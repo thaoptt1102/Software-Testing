@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Lab8</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>13b82245-0fd0-45a0-b2d5-6a874664c637</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9d60336a-3c2b-4af1-8226-d1362a72d417</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ab66c93b-b531-47a5-88fa-6c5cf20fa89b</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
